@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Podcasts"
+date:   2015-04-09 00:00:00 +0000
+categories: Podcast
+---
+I have been a huge fan of podcasts for a couple of years. so I decided to share my list of podcasts that I listen to.
+
+I use byondpod on android that generates a smart playlist general in the order below. I rarely even get through half of this list in a week but I always have some thing to listen to.
+
+|name|link|
+|---|---|
+|Security Now!|http://feeds.twit.tv/sn|
+|Android Central Podcast|http://feeds.feedburner.com/AndroidCentralPodcast|
+|The AnandTech Podcast M4A Feed|http://www.anandtech.com/rss/podcastm4a|
+|H.I. – Hello Internet|http://feeds.podtrac.com/rZy85ymZYZc|
+|TechSNAP MP3|http://feeds.feedburner.com/techsnapmp3|
+|BSD Now MP3|http://feeds.feedburner.com/BsdNowMp3|
+|Coder Radio MP3|http://feeds.feedburner.com/coderradiomp3|
+|From Python Import Podcast|http://feeds.feedburner.com/FromPythonImportPodcast|
+|PowerScripting Podcast|http://feeds.feedburner.com/Powerscripting|
+|FLOSS Weekly|http://feeds.twit.tv/floss|
+|This Week in Computer Hardware|http://feeds.twit.tv/twich|
+|this WEEK in TECH – MP3 Edition|http://feeds.twit.tv/twit|
+|Windows Weekly|http://feeds.twit.tv/ww|
+|VMware Communities Roundtable|http://recordings.talkshoe.com/rss19367.xml|
+|Hands On Virtualization Podcast|http://recordings.talkshoe.com/rss96159.xml|
+|Cisco TAC Security Podcast Series|http://www.cisco.com/assets/cdc_content_elements/rss/security_podcast/security_tac_pcast.xml|
+|DABCC Radio Virtualization Cloud Computing Podcasts Citrix, VMware, Microsoft|http://feeds.dabcc.com/dabcc-radio|
+|This Week in Enterprise Tech|http://feeds.twit.tv/twiet.xml|
+|The Linux Action Show MP3|http://feeds.feedburner.com/TheLinuxActionShow|
+|RunAs Radio|http://feeds.feedburner.com/RunasRadio|
+|LINUX Unplugged Podcast|http://feeds.feedburner.com/linuxunplugged|
+|All About Android|http://feeds.twit.tv/aaa|
+|This Week In Google|http://feeds.twit.tv/twig|
+|this WEEK in LAW|http://feeds.twit.tv/twil|
+|Tech News Today|http://feeds.twit.tv/tnt|
+|Cisco Switching iPod Version|http://buchananweb.co.uk/switch.xml|
+|Cisco Tech Talks|http://feeds.treet.tv/treet-ciscotechtalks|
+|TWiT Live Specials MP3|http://feeds.twit.tv/ces|
+|Pragmatic Podcasts|http://pragprog.com/podcasts/feed.rss|
+|Freakonomics Radio|http://feeds.feedburner.com/freakonomicsradio|
