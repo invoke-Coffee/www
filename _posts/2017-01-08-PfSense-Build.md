@@ -16,20 +16,18 @@ I just got a 1gb internet connection so this is going to be the most difficult c
 I will be running pfsense and hopefully some additional plugins.
 
 ## The hardware
-**QOTOM-Q190G4-S02 2016**
-Onboard CPU: Intel Celeron Processor J1900 Quad-Core 2M Cache, 2 GHz, up to 2.42 GHz
-Power Consumption: 10W
-Memory: 1 x Memory Slot, Support 2G/4G/8GB 1333/1600MHz DDR3 SO-DIMM Memory
-Hard drive: 1 x mSATA SSD slot;1 x SATA HDD Slot
-LAN: 4 x RJ-45 port – 4* Intel WG82583 – 10/100/1000 Controller
-https://www.amazon.com/dp/B01KX9OU58/ref=cm_sw_r_tw_dp_x_kT5rybYSVKDAD
+[QOTOM-Q190G4-S02 2016](https://www.amazon.com/dp/B01KX9OU58/ref=cm_sw_r_tw_dp_x_kT5rybYSVKDAD)
+- Onboard CPU: Intel Celeron Processor J1900 Quad-Core 2M Cache, 2 GHz, up to 2.42 GHz
+- Power Consumption: 10W
+- Memory: 1 x Memory Slot, Support 2G/4G/8GB 1333/1600MHz DDR3 SO-DIMM Memory
+- Hard drive: 1 x mSATA SSD slot;1 x SATA HDD Slot
+- LAN: 4 x RJ-45 port – 4* Intel WG82583 – 10/100/1000 Controller
 
-**Kingston Digital 60GB SSD mSATA (6Gbps)** https://www.amazon.com/dp/B00COFMPAM/ref=cm_sw_r_tw_dp_x_K15ryb8MFSJAD
+[Kingston Digital 60GB SSD mSATA (6Gbps)](https://www.amazon.com/dp/B00COFMPAM/ref=cm_sw_r_tw_dp_x_K15ryb8MFSJAD)
 
-**Crucial 8GB Single DDR3L 1600 MT/s (PC3L-12800) SODIMM** https://www.amazon.com/dp/B006YG8X9Y/ref=cm_sw_r_tw_dp_x_S15rybN652DM6
+[Crucial 8GB Single DDR3L 1600 MT/s (PC3L-12800) SODIMM](https://www.amazon.com/dp/B006YG8X9Y/ref=cm_sw_r_tw_dp_x_S15rybN652DM6)
 
 Both the SSD and ram are over specked for this build. But the price was right so the extra over head is nice to have.
-
 
 ## Build
 
