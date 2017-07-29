@@ -15,13 +15,13 @@ The first 2 Bytes are the bridge priority. This is a configurable value that is 
 
 The second part is the 6 Byte Mac address of the switch. This normally can not be changed.
 
-| 2 byte Bridge Priority | 6 byte Mac address |
+2 byte Bridge Priority -  6 byte Mac address
 
 
 
 If MST, PVST or PVTS+ is used the Bridge priority is further divided into a 4 bit priority and a 12 bit extended system ID. The extended system ID will be set to the Vlan that the BID corresponds to. The first 4 bits remain settable. This is commonly done by restricting setting the Bridge priority to only be incremented in 4096 bit increments. (Remember you can normally have vlans from 1-4096)
 
-| 4 bit priority | 12 bit extended system ID | 48 bit (6 byte) Mac address |
+4 bit priority - 12 bit extended system ID - 48 bit (6 byte) Mac address
 
 ## Election process
 The switches communicate using Bridge Protocol Data Units. The switch with the Lowest BID wins and is elected as the root bridge
