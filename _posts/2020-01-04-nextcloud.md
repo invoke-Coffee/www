@@ -2,8 +2,8 @@
 layout: post
 title:  "Running Next Cloud on Raspberry PI"
 date:   2020-01-04 00:00:00 +0000
-categories: 
-tags: Testing Performance
+categories: Nextcloud
+tags:  Nextcloud raspberryPI
 ---
 
 This Post on [http://unixetc.co.uk](http://unixetc.co.uk/2016/11/20/simple-nextcloud-installation-on-raspberry-pi/) inspired me to set up my own NextCloud server on a raspberry pi. If you want a dead simple install I would follow that guide. But I wanted to go a bit farther and see what kind of performance I could get out of NextCloud with a couple of PIs.
